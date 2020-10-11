@@ -1,0 +1,99 @@
+/*
+.maincontainer {
+//*       background-color: darkgrey;//
+    margin: 0px auto;
+    width: 99%;
+    min-height: 600px;
+    border-radius: 20px 20px 0 0;
+    padding: 7px;
+}
+
+.menu {
+    /*    background-color: #000;
+    padding: 5px;
+    text-align: center;
+    text-decoration: none;
+
+    margin: 0 auto;
+
+}
+
+.menu a {
+    background-color: gold;
+    border-radius: 10px;
+    color: black;
+    font-size: 1.8em;
+    padding: 3px;
+    text-decoration: none;
+
+}
+
+.menu a:hover {
+    color: gold;
+    background-color: black;
+    //transition: 0.9s;
+	//font-size: 1.5vw;
+
+}
+
+footer {
+    background-color: black;
+    color: white;
+    margin: 0 auto;
+    width: 99%;
+    text-align: center;
+    border-radius: 0 0 20px 20px;
+    margin-top: auto;
+    padding: 7px;
+
+}
+*/
+.upper_head,
+.login_body,
+.lower_footer {
+    padding: 10px;
+    margin: 0 auto;
+    width: 35%;
+}
+
+.upper_head {
+    background-color: hotpink;
+    border-radius: 20px 20px 0 0;
+    text-align: center;
+
+}
+
+.login_body {
+    border: 1px solid #ccc;
+
+}
+
+/*-------- Full width inputs types---------------- */
+input[type=text],
+input[type=password] {
+    width: 90%;
+    padding: 12px 20px;
+    margin: 5px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+}
+
+.lower_footer {
+    background-color: chocolate;
+    border-radius: 0 0 20px 20px;
+    text-align: center;
+
+}
+
+/*--------- styling for the butttons-------------*/
+button {
+    background-color: lime;
+    color: #111;
+    padding: 15px 20px;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+    width: 50%;
+    font-size: bolder;
+}
+
